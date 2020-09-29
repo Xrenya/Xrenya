@@ -6,8 +6,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   <img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" alt="keras" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-  <img src="https://https://raw.githubusercontent.com/catalyst-team/catalyst-pics/master/pics/catalyst_logo.png" alt="pytorch" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
 </p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Xrenya&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" alt="Xrenya" /></p>
