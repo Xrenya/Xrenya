@@ -12,7 +12,7 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Xrenya&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" alt="Xrenya" /></p>
 
 <!--
-**qubvel/qubvel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Xrenya/Xrenya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
