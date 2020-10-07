@@ -15,7 +15,7 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Xrenya&layout=compact" alt="Xrenya" />
 </p>
-
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Xrenya&hide_title=true&hide_border=true&langs_count=5)
 <!--
 **Xrenya/Xrenya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
