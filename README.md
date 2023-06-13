@@ -11,12 +11,12 @@
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/3299148?s=200&v=4" alt="aws" width="40" height="40"/>
 </p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Xrenya&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&theme=graywhite" alt="Xrenya" />
+<!--
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Xrenya&show_icons=true&hide_border=true&hide_title=true&include_all_commits=false&theme=graywhit&rank_icon=githube" alt="Xrenya" />
 </p>
 
 
-<!--
+
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Xrenya&rank_icon=github" alt="Xrenya" />
 </p>
 **Xrenya/Xrenya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
