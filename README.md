@@ -17,7 +17,7 @@
 
 
 <!--
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Xrenya&layout=compact" alt="Xrenya" />
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Xrenya&layout=compact&rank_icon=github" alt="Xrenya" />
 </p>
 **Xrenya/Xrenya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
