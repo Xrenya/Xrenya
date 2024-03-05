@@ -8,6 +8,7 @@
   <img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" alt="keras" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/google/flax/main/images/flax_logo_250px.png" alt="pytorch" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/3299148?s=200&v=4" alt="aws" width="40" height="40"/>
 </p>
